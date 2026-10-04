@@ -1,8 +1,4 @@
-# Week ## — Topic Name
-
-<!-- Replace ## with the week number and Topic Name with the week's focus -->
-<!-- You may also refer to each week's slide for the Topic Name -->
-<!-- e.g. Week 03 — Arrays & Functions -->
+# Week 03 — Arrays, Functions and Transformations
 
 ---
 
@@ -10,23 +6,24 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
-
-<!-- Add or remove rows to match the activities for this week. -->
+| `3a`     | Circle that changes colours, key press to add or remove a blue. |
+| `3b`     | A staircase of colourful shapes made using functions. |
 
 ---
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+Very simple week, already knew what functions were and I was able to pick up arrays a little bit.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+### 3a — Array Sampler
+![video](activity3a_video01.mp4)
+
+### 3b — One Function Wonder
+![screenshot](activity3b_image03.jpg)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

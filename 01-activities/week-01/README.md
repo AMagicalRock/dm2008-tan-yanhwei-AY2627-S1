@@ -19,9 +19,11 @@ Basic coding lesson, understood most of it from past experiences with coding, bu
 
 ### Output
 
-![screenshot](activity1a-image02.png)
+### 1a — Simple Creatures
+![screenshot](activity1a-image02.jpg)
 
-![GIF](activity1b-video02.mp4)
+### 1b — Learning By Making
+![Video](activity1b-video02.mp4)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

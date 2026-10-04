@@ -1,8 +1,4 @@
-# Week ## — Topic Name
-
-<!-- Replace ## with the week number and Topic Name with the week's focus -->
-<!-- You may also refer to each week's slide for the Topic Name -->
-<!-- e.g. Week 03 — Arrays & Functions -->
+# Week 02 — Control Flows and Interactivity
 
 ---
 
@@ -10,23 +6,24 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
-
-<!-- Add or remove rows to match the activities for this week. -->
+| `2a`     | A moving circle that grows, shrinks and changes colours after different button presses. |
+| `2b`     | Conveyor belts of shapes that become colourful upon button press. |
 
 ---
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+Learnt about using mouse and keyboard presses to add extra functionality. If else statements were easy to pick up as they are used in other coding languages too.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+### 2a — Mode Switch
+![Video](activity2a-video01.mp4)
+
+### 2b — Pattern Making
+![Video](activity2b-video01.mp4)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
