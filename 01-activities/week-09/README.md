@@ -19,7 +19,7 @@ Continuation from last week's lesson, I'm slowly getting used to the electronics
 ### Output
 
 ### 9a — Mapping Sensors
-![Video](activity9a_video01.mp4)
+![Video](activity9a_video01.MOV)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

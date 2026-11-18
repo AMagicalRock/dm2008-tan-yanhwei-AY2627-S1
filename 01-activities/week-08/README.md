@@ -20,7 +20,7 @@ Never used an Arduino before so this was a very interesting lesson. My lack of k
 ### Output
 
 ### 8a — Light it Up
-![Video](activity8a_video01.mp4)
+![Video](activity8a_video01.MOV)
 
 ### 8b — Sensor Check
 ![Video](activity8b_image03.jpg)
