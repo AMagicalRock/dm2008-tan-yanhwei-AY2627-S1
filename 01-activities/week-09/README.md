@@ -7,7 +7,6 @@
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
 | `9a`     | Getting sensors to light up LEDs. |
-| `9b`     | Converting sensor data into code in p5js. |
 
 ---
 
@@ -21,9 +20,6 @@ Continuation from last week's lesson, I'm slowly getting used to the electronics
 
 ### 9a — Mapping Sensors
 ![Video](activity9a_video01.mp4)
-
-### 9b — Sensor-to-Screen
-![Video](activity9b_video02.mp4)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
